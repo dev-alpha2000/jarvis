@@ -51,14 +51,21 @@ Weather and News: Use voice or text commands to fetch the current weather or the
 Task Automation: Extend the assistant by adding your custom commands or integrating new APIs.
 
 
-Example
+## Example
 When you open the app:
 
 You will be greeted by Jarvis, and you can start interacting with the assistant via text or voice.
+
 You can ask Jarvis for information such as the weather, latest news, or other custom commands you've implemented.
+
 Jarvis will respond either with text, audio, or both.
-Dependencies
+
+## Dependencies
+
 React: Frontend framework for building the UI.
+
 SpeechRecognition API: For handling voice commands (optional).
+
 Axios: For making HTTP requests to third-party APIs like weather and news services.
+
 CSS or Styled Components: For styling the app
